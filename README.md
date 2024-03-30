@@ -17,7 +17,7 @@ The horizontal bar chart presents the total sightings by state and season, illus
 ### Quarterly and Monthly Sightings
 The treemap shows sightings by quarter and month, with the later months of the year, particularly October, having higher numbers. July also stands out as a month with a significant number of reports.
 
-![Bigfoot Sightings Data Visualization](link-to-your-image-here)
+![Bigfoot Sightings Data Visualization](https://github.com/PWRXNDR/PowerBI-CaseStudy-1/blob/4c00070ba710322152b4028d280c92267c282cc9/BigFoot%20Sightings.png)
 *Figure 2: Bigfoot Sightings Data Visualization*
 
 ## Discussion
