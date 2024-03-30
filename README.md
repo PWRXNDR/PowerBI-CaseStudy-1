@@ -1,22 +1,30 @@
-# PowerBI-CaseStudy-1 - Bigfoot Sightings
-Project Overview
+# PowerBI-CaseStudy-1: Bigfoot Sightings
 
-This GitHub repository hosts the "Bigfoot Sightings" project, a comprehensive PowerBI case study. The project delves into the intriguing subject of Bigfoot sightings, employing advanced data visualization techniques and analytics to explore patterns and insights. It's an exemplary demonstration of how PowerBI can transform raw data into meaningful narratives.
+## Abstract
+This report examines the patterns in Bigfoot sightings across various states and seasons, using data recorded from 1980 to 2021. The visualizations developed from this dataset are intended to provide insights into sighting trends and to help hypothesize about the factors influencing these occurrences.
 
-Project Components
+## Data Analysis
 
-1. Version and Settings: Utilizes specific PowerBI version settings, ensuring compatibility and optimal performance.
-2. Content Types: The project incorporates a range of data types, meticulously defined for accuracy and clarity in analysis.
-3. Diagram Layout: A sophisticated diagram layout is in place, presenting complex data relationships in an intuitive visual format.
-4. Report Layout: At the heart of the project lies a thoughtfully designed report layout, which combines aesthetic appeal with functional clarity, making the data not just accessible but engaging.
-5. Metadata: Comprehensive metadata underpins the project, detailing data sources, structure, and other critical information that adds depth and context to the analysis.
-6. Static Resources: The inclusion of visual resources such as thematic images and custom themes enriches the report, enhancing the user experience and providing a unique visual identity to the study.
-7. Security Bindings: A testament to the project's professionalism, it includes robust security bindings, ensuring data integrity and controlled access.
-8. Data Model: The core of the project, the data model, is a well-crafted representation of the data universe pertaining to Bigfoot sightings, with relationships and calculations crafted for in-depth analysis.
-Usage and Audience
+### Trends Over Time
+The bar and line chart exhibits the number of Bigfoot sightings over the years, with a notable peak in reports occurring in the late 2000s. The decline in sightings after this peak could indicate changes in public interest or the reporting habits rather than a decline in actual sightings.
 
-This project is ideal for data analysts, PowerBI enthusiasts, and anyone intrigued by the mystery of Bigfoot. It serves as a practical example for learning advanced PowerBI techniques, including data modeling, custom visualizations, and report design. Additionally, it's a valuable resource for those looking to understand how to structure and present data-driven stories effectively.
+### Sighting Distribution by Latitude
+The classifications based on latitude—North, Central, Far North—reveal an interesting spread of sightings. The 'avg latitude' line could indicate the average latitude where sightings are reported, offering a geographical context to the data.
 
-Contribution and Collaboration
+### State and Seasonal Distribution
+The horizontal bar chart presents the total sightings by state and season, illustrating that Washington is the leading state for reports, with most sightings occurring in the fall. This may suggest environmental factors or seasonal behaviors of wildlife that could be mistaken for Bigfoot.
 
-Contributions to enhance or expand this project are welcome. Whether it's adding new data sources, refining visualizations, or improving the data model, your input can help make this an even more comprehensive and insightful study.
+### Quarterly and Monthly Sightings
+The treemap shows sightings by quarter and month, with the later months of the year, particularly October, having higher numbers. July also stands out as a month with a significant number of reports.
+
+![Bigfoot Sightings Data Visualization](link-to-your-image-here)
+*Figure 2: Bigfoot Sightings Data Visualization*
+
+## Discussion
+The visualization suggests that sightings are more frequent in the northern latitudes of the United States, with a seasonal bias towards the fall and summer months. The data could be indicative of the reporting behavior influenced by outdoor activities prevalent during these seasons.
+
+## Future Directions
+Further research could investigate the correlation between sightings and factors such as population density, proximity to forests, and outdoor recreational activity levels. Additionally, analyzing the influence of media, including the release of films and television shows about Bigfoot, on the frequency of sightings reported could provide valuable insights into the data trends observed.
+
+## Conclusion
+This visualization-based analysis provides an overview of the reported Bigfoot sightings and posits potential factors that may affect these reports. While the data offers a quantitative look at when and where sightings occur, qualitative research is necessary to understand the causative factors behind these patterns.
